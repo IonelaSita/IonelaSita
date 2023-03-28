@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IonelaSita
-- 🌱 I’m currently learning Computer Sience and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me ionela_sita@yahoo.com
 
